@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mars_background">#FFF7F1</color>
+    <color name="mars_surface_alt">#FFF1E7</color>
+    <color name="mars_panel_strong">#8F2D10</color>
+    <color name="mars_panel">#D96C3B</color>
+    <color name="mars_accent">#C1440E</color>
+    <color name="mars_accent_dark">#8F2D10</color>
+    <color name="mars_outline">#F2C3AE</color>
+    <color name="mars_text_primary">#3B1F16</color>
+    <color name="mars_text_secondary">#7A4A3A</color>
+    <color name="mars_text_on_strong">#FFF8F4</color>
+</resources>
